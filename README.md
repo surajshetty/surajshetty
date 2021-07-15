@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a software developer under development 😄
+developing some normal usable softare for general usecase i encounter in my daily life as developer 
 
 <!--
 **surajshetty/surajshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
